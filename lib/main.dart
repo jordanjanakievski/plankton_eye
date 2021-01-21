@@ -1,6 +1,6 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:object_detection/realtime/live_camera.dart';
+import 'package:object_detection/real_time/live_camera.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 List<CameraDescription> cameras;

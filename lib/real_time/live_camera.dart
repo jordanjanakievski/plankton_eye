@@ -1,7 +1,7 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:object_detection/realtime/bounding_box.dart';
-import 'package:object_detection/realtime/camera.dart';
+import 'package:object_detection/real_time/bounding_box.dart';
+import 'package:object_detection/real_time/camera.dart';
 import 'dart:math' as math;
 import 'package:tflite/tflite.dart';
 import 'package:google_fonts/google_fonts.dart';
