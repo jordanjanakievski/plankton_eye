@@ -32,7 +32,7 @@ dependencies:
   tflite:
   camera: ^0.5.8+7
   google_fonts:
-  flutter_launcher_icons:
+  
 
 dev_dependencies:
   flutter_test:
@@ -54,13 +54,6 @@ flutter:
     - assets/models/detect.tflite
     - assets/models/plankton_labels.txt
     - assets/logo.png
-
-  # flutter_icons:
-  #   ios: true
-  #   android: true
-  #   image_path: "assets/logo.png"
-  #   adaptive_icon_background: "#FF03A9F4"
-  #   adaptive_icon_foreground: "assets/logo.png"
   
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
